@@ -12,5 +12,7 @@ Balance: https://www.figma.com/file/MPCMNtwmRMUh7cry9UAJt4/Balance?type=design&n
 
 CreateUser: https://www.figma.com/file/MeceiSC1hrE4yJmStwkfUE/CreateUser?type=design&node-id=0%3A1&mode=design&t=MF9iDs98tKrdiRA3-1 
 
+Resten af figma: https://www.figma.com/file/DF7iRKVVEydjLRlwxmTAna/Cupcake?type=design&node-id=0-1&mode=design&t=ojtKb1seWB5uYw0m-0
+
 
 
