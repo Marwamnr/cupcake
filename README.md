@@ -34,9 +34,13 @@ Allan
 * Domaine model: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/Domaine.puml
 
 * ER Diagram: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/ERD.Diagram.png
-
+  
+* Aktivitets Diagram: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/Aktivitetsdiagram.png
+  
+* Navigations Diagram: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/NavigationsDiagram.png 
 
 ### Database: 
+
 
 
 
