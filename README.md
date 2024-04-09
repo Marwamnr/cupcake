@@ -29,8 +29,11 @@ Allan
 * Resten af figma: https://www.figma.com/file/DF7iRKVVEydjLRlwxmTAna/Cupcake?type=design&node-id=0-1&mode=design&t=ojtKb1seWB5uYw0m-0
 
 
-### Diagrammer:
+### Diagram & model:
 
+* Domaine model: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/Domaine.puml
+
+* ER Diagram: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/ERD.Diagram.png
 
 
 ### Database: 
