@@ -40,7 +40,7 @@ Allan
 * Navigations Diagram: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Diagrammer/NavigationsDiagram.png 
 
 ### Database: 
-
+* Database sql: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/src/main/resources/public/Database/Database.sql
 
 
 
