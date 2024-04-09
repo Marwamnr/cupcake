@@ -10,11 +10,13 @@ Allan
 
 -------
 
+# Aflevering 
+
 ### Rapport: 
 * Link til rapporten: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/Repport.pdf/rapport.pdf 
 
-
-
+### Video-demo: 
+* Link til youtube video: https://youtu.be/ylgzYTH-aC0 
 
 ### Mockup i Figma: 
 
