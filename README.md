@@ -11,7 +11,7 @@ Allan
 -------
 
 ### Rapport: 
-* Link til rapporten: https://docs.google.com/document/d/1e1MeAXpgP4GWB2kVRXUH8CXaDezRbOWenR-I-bRLO4U/edit?usp=sharing 
+* Link til rapporten: https://github.com/Marwamnr/cupcake/blob/main/cupcake%20projekt/Repport.pdf/rapport.pdf 
 
 
 
